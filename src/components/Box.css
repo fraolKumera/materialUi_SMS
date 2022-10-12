@@ -1,0 +1,11 @@
+.logo {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  position: absolute;
+  top: 10px;
+}
+.full-length {
+  width: 90%;
+}
